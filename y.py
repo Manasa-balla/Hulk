@@ -5,4 +5,4 @@ def pal(num):
     else:
        print('not a palindrome')
  
-print(pal('check'))
+print(pal('purple'))
