@@ -6,3 +6,6 @@ def pal(num):
        print('not a palindrome')
  
 print(pal('purple'))
+
+
+[Ajk
